@@ -11,16 +11,16 @@ This repository is where I explore various machine learning techniques, tools, a
 Some of the areas covered include:
 
 - Supervised Learning
-  - Classification (e.g., Logistic Regression, Decision Trees, Random Forests)
-  - Regression (e.g., Linear Regression, XGBoost)
+  - Classification (e.g Logistic Regression, Decision Trees, Random Forests)
+  - Regression (e.g Linear Regression, XGBoost)
 - Unsupervised Learning
-  - Clustering (e.g., KMeans, DBSCAN)
-  - Dimensionality Reduction (e.g., PCA)
+  - Clustering (e.g KMeans, DBSCAN)
+  - Dimensionality Reduction (e.g PCA)
 - Feature Engineering and Selection
 - Model Evaluation & Cross-Validation
 - Data Cleaning & Preprocessing
 - Handling Imbalanced Datasets
-- Real-world dataset applications (e.g., healthcare, finance)
+- Real-world dataset applications (e.g healthcare, finance)
 
 ## 🔧 Tools & Libraries
 
@@ -53,4 +53,4 @@ I'm currently focused on:
 
 > ⚠️ Note: This is a personal learning repository. Notebooks may evolve and improve over time.
 
-Feel free to explore, fork, or reach out if you're working on something similar!
+Feel free to explore, fork or reach out if you're working on something similar!
