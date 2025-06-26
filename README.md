@@ -26,8 +26,8 @@ Some of the areas covered include:
 
 - Python
 - Scikit-learn
-- Pandas
-- NumPy
+- Pandas, Numpy
+- Seaborn, Matplotlib
 - Matplotlib & Seaborn
 - XGBoost, LightGBM
 - Jupyter Notebooks
