@@ -8,7 +8,7 @@ This repository is where I explore various machine learning techniques, tools, a
 
 ## 📁 Contents
 
-Some of the areas covered include:
+Some of the areas covered include:-
 
 - Supervised Learning
   - Classification (e.g Logistic Regression, Decision Trees, Random Forests)
@@ -34,7 +34,7 @@ Some of the areas covered include:
 
 ## 📌 Purpose
 
-This repo serves as:
+This repo serves as:-
 
 - A learning journal for my machine learning journey.
 - A showcase of practical applications of ML concepts.
