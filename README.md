@@ -34,7 +34,7 @@ Some of the areas covered include:
 
 ## 📌 Purpose
 
-This repo serves as:-
+This repo serves as
 
 - A learning journal for my machine learning journey.
 - A showcase of practical applications of ML concepts.
