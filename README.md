@@ -8,7 +8,7 @@ This repository is where I explore various machine learning techniques, tools, a
 
 ## 📁 Contents:
 
-Some of the areas covered include:
+Some of the areas covered include
 
 - Supervised Learning
   - Classification (e.g Logistic Regression, Decision Trees, Random Forests)
