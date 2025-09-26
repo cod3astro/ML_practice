@@ -16,7 +16,7 @@ Some of the areas covered include
 - Unsupervised Learning
   - Clustering (e.g KMeans, DBSCAN)
   - Dimensionality Reduction (e.g PCA)
-- Feature Engineering and Selection
+- Feature Engineering and Selection 
 - Model Evaluation & Cross-Validation
 - Data Cleaning & Preprocessing
 - Handling Imbalanced Datasets
