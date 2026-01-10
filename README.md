@@ -1,4 +1,4 @@
-r# Machine Learning Practice 🧠📊
+# Machine Learning Practice 🧠📊
 
 Welcome to my Machine Learning Practice repository! This repo contains a collection of projects, experiments, and practice notebooks I'm working on as part of my journey to become a better data scientist.
 
