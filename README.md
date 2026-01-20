@@ -15,7 +15,7 @@ Some of the areas covered  include
   - Regression (e.g Linear Regression, XGBoost)
 - Unsupervised Learning
   - Clustering (e.g KMeans, DBSCAN)
-  - Dimensionality Reduction (e.g PCA)
+  - Dimensionality Reduction (e.g PCA) 
 - Feature Engineering and Selection 
 - Model Evaluation & Cross-Validation
 - Data Cleaning & Preprocessing
