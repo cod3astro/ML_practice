@@ -24,7 +24,7 @@ Some of the areas covered  include
 
 ## 🔧 Tools & Libraries
 
-- Python
+- Python 
 - Scikit-learn
 - Pandas, Numpy
 - Seaborn, Matplotlib
