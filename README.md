@@ -22,7 +22,7 @@ Some of the areas covered  include
 - Handling Imbalanced Datasets
 - Real-world dataset applications (e.g healthcare, finance)
 
-## 🔧 Tools & Libraries 
+## 🔧 Tools & Libraries
 
 - Python
 - Scikit-learn
